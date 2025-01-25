@@ -1,3 +1,5 @@
+![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+Crunchy+Design's+GitHub)
+
 # Hi, I'm Crunchy Design 👋
 Welcome to my GitHub! I specialize in responsive layouts and accessible web design.
 
