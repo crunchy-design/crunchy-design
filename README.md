@@ -1,5 +1,3 @@
-![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+Crunchy+Design's+GitHub)
-
 # Hi, I'm Crunchy Design 👋
 Welcome to my GitHub! I specialize in responsive layouts and accessible web design.
 
@@ -11,7 +9,7 @@ Welcome to my GitHub! I specialize in responsive layouts and accessible web desi
 git clone https://github.com/crunchy-design/crunchy-design.git
 cd crunchy-design
 
-echo "# Hi, I'm Crunchy Design 👋" >> README.md
+echo "# Hi, I'm 
 # Hi, I'm Crunchy Design 👋
 
 🌟 Welcome to my GitHub profile! I specialize in building responsive and accessible web layouts.  
